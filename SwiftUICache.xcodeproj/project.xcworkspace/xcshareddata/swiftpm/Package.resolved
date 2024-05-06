@@ -1,0 +1,15 @@
+{
+  "originHash" : "94736bdddc68d160fd116eaff161aa4504f7680f4412cbfa664954c777b93453",
+  "pins" : [
+    {
+      "identity" : "networkmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/batuhankucukyildiz/NetworkManager",
+      "state" : {
+        "branch" : "main",
+        "revision" : "eae30e23ecbe68ddca06634d0f0fd77acf46fd94"
+      }
+    }
+  ],
+  "version" : 3
+}
